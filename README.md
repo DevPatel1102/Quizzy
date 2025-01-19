@@ -18,3 +18,19 @@ A Flutter-based quiz app that fetches dynamic questions and options via an API, 
   - http: For making API calls.
   - sharedPrefrences: For sending data between screens
 
+---
+
+## Screenshots
+
+### 1. Welcome Screen
+![Welcome Screen](https://github.com/user-attachments/assets/fa5fcbab-aae2-4cb1-babc-04130c7d543d)
+
+### 2. Home Screen
+![Home Screen](https://github.com/user-attachments/assets/227d2574-3746-49d3-94e1-5817bd6d6646)
+
+### 2. Question Screen
+![1st Screen](https://github.com/user-attachments/assets/d21d87dc-1a19-4b23-b442-c4da0772e7a7)
+![2nd Screen](https://github.com/user-attachments/assets/583af3cb-2191-40d6-8203-270e494aaa96)
+
+### 2. Result Screen
+![Result Screen](https://github.com/user-attachments/assets/84788330-0525-49fa-a8c1-e1066d4824fc)
