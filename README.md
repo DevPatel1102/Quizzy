@@ -12,3 +12,9 @@ A Flutter-based quiz app that fetches dynamic questions and options via an API, 
 - **Progress Tracking:** Shows the current question and total questions.
 - **Results Screen:** Displays the user's final score and the total number of questions.
 
+## Dependency
+
+- The app uses the following Flutter packages:
+  - http: For making API calls.
+  - sharedPrefrences: For sending data between screens
+
