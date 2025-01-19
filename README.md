@@ -35,3 +35,8 @@ A Flutter-based quiz app that fetches dynamic questions and options via an API, 
 ### 4. Result Screen
 <img src="https://github.com/user-attachments/assets/84788330-0525-49fa-a8c1-e1066d4824fc" alt="Result Screen" width="250" height="500" />
 
+---
+
+## Video Demo
+
+Watch the demo of the Quiz App in action:
