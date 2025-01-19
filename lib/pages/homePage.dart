@@ -173,7 +173,7 @@ class _homePage extends State<homePage> {
           ),
           borderRadius: BorderRadius.circular(12),
         ),
-        child: Center(
+        child: Center(  
           child: Padding(
             padding: const EdgeInsets.all(12.0),
             child: Text(
